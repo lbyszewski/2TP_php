@@ -22,12 +22,9 @@
 
         // instrukcja if, operatory logiczne i arytmetyczne
 
-        
-
 
         
-
-        // tablica
+        // tablica, werfikacja minimum i maximum 
 
     -->
 </body>
