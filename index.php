@@ -14,7 +14,7 @@
         następnie przetworzy je do poniższych realizacji:
 
 
-        //input, output - zmienne supergloalbne
+        //input - zmienne supergloalbne
 
         // incjalizacja zmiennych 
 
@@ -22,8 +22,9 @@
 
         // instrukcja if, operatory logiczne i arytmetyczne
 
+        // output
 
-        
+
         // tablica, werfikacja minimum i maximum 
 
     -->
