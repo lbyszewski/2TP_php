@@ -10,16 +10,22 @@
     <h3>TURTORIAL PHP</h3>
 
     <!--
-        //input output
+        Implelemtacja programu za pośrednictwem, którego użytkownik wprowadzi dwie zmienne a 
+        następnie przetworzy je do poniższych realizacji:
 
-        // instrukcja if
 
-        // pętla for i while
-
-        // operatory logiczne i arytmetyczne 
-
+        //input, output - zmienne supergloalbne
 
         // incjalizacja zmiennych 
+
+        // pętla for
+
+        // instrukcja if, operatory logiczne i arytmetyczne
+
+        
+
+
+        
 
         // tablica
 
